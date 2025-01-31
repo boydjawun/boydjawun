@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @boydjawun
-- 👀 I in al specilize all of Python, SQL, and Go
-- 🌱 I’m currently learning how to use programming to make my life and others easier
-- 💞️ I’m looking to collaborate on any meaninful coding projects with like minded individuals and team members willing to help me grow and teach me new things
+- 👀 Python | Machine Learning | PyTorch
 - 📫 How to reach me @ email: boydjawun@gmail.com
 
 <!---
