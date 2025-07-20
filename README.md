@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @boydjawun
-- 👀 Python | Machine Learning | PyTorch
-- 📫 How to reach me @ email: boydjawun@gmail.com
+- 👋 Hi, I’m Jawun. I'm currently working on sharpeing my Machine Learning and Deep Learning skills using Python, Scikit-Learn, and PyTorch through various projects.
+- 📫 For any helpful tips or suggestions, I can be reached @ email: boydjawun@gmail.com
 
 <!---
 boydjawun/boydjawun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
