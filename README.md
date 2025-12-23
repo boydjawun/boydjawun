@@ -8,7 +8,7 @@
 
 🏥[LLMNR/NTB-NS Poisoning in Active Directory Home Lab](https://github.com/boydjawun/AD-Lab-LLMNR-NTB-NS-Poisoning)
 
-<h3>💻Machine Learning Projects</h3>
+<h1>💻Machine Learning Projects</h1>
 
 🥸[MNIST Digit Classification with Convolutional Neural Network(CNN)](https://github.com/boydjawun/MNIST-Classification)
 
