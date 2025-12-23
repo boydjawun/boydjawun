@@ -16,9 +16,9 @@
 
 🚙[Fuel Efficiency Prediction Project](https://github.com/boydjawun/MPG-Predictor)
 
-<h3>🔗Connect with me!</h3>
+<h1>🔗Connect with me!</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](www.linkedin.com/in/jawun-boyd-0168ab301)
+Connect with me on📱[LinkedIn](www.linkedin.com/in/jawun-boyd-0168ab301)
 <!---
 boydjawun/boydjawun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
