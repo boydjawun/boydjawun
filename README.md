@@ -1,6 +1,24 @@
-- 👋 Hi, I’m Jawun. I'm currently working on sharpeing my Machine Learning and Deep Learning skills using Python, Scikit-Learn, and PyTorch through various projects. I am also an aspiring Cybersecurity specialist
-- 📫 For any helpful tips or suggestions, I can be reached @ email: boydjawun@gmail.com
+<h1>Hi, I'm Jawun!</h1>
 
+<h1>💻Cybersecurity Projects:</h1>
+
+🍯[Azure Sentinel Honeypot Lab w/Ubuntu(Security Analysis)](https://github.com/boydjawun/Azure-Sentinel-Honeypot-Lab-with-Ubuntu)
+
+🧪[Active Directory Home Lab Setup w/PowerShell Script(System Administration)](https://github.com/boydjawun/ActiveDirectory-HomeLab-Setup)
+
+🏥[LLMNR/NTB-NS Poisoning in Active Directory Home Lab](https://github.com/boydjawun/AD-Lab-LLMNR-NTB-NS-Poisoning)
+
+<h3>💻Machine Learning Projects</h3>
+
+🥸[MNIST Digit Classification with Convolutional Neural Network(CNN)](https://github.com/boydjawun/MNIST-Classification)
+
+🏘️[Boston Median Value Housing Project](https://github.com/boydjawun/Boston_Housing_Dataset)
+
+🚙[Fuel Efficiency Prediction Project](https://github.com/boydjawun/MPG-Predictor)
+
+<h3>🔗Connect with me!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](www.linkedin.com/in/jawun-boyd-0168ab301)
 <!---
 boydjawun/boydjawun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
