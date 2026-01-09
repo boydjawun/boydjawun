@@ -8,7 +8,7 @@
 
 🏥[LLMNR/NTB-NS Poisoning in Active Directory Home Lab](https://github.com/boydjawun/AD-Lab-LLMNR-NTB-NS-Poisoning)
 
-🔎[AD Post-Exploitation Demos](https://github.com/boydjawun/AD-PostExploitation-Demos)
+🔎[Active Directory Post-Exploitation Demos](https://github.com/boydjawun/AD-PostExploitation-Demos)
 
 📈[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management-/tree/main)
 
