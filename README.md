@@ -10,7 +10,7 @@
 
 🔎[Active Directory Post-Exploitation Demos](https://github.com/boydjawun/AD-PostExploitation-Demos)
 
-📈[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management-/tree/main)
+📊[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management-/tree/main)
 
 
 <h1>💻Machine Learning Projects</h1>
