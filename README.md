@@ -6,7 +6,7 @@
 
 🧪[Active Directory Home Lab Setup w/PowerShell Script(System Administration)](https://github.com/boydjawun/ActiveDirectory-HomeLab-Setup)
 
-🏥[LLMNR/NTB-NS Poisoning in Active Directory Home Lab](https://github.com/boydjawun/AD-Lab-LLMNR-NTB-NS-Poisoning)
+🔓[LLMNR/NetBIOS Poisoning in Active Directory Home Lab](https://github.com/boydjawun/AD-Lab-LLMNR-NetBIOS-Poisoning)
 
 🔎[Active Directory Post-Exploitation Demos](https://github.com/boydjawun/AD-PostExploitation-Demos)
 
