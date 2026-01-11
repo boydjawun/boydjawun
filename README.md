@@ -15,11 +15,12 @@
 
 <h1>💻Machine Learning Projects</h1>
 
+🚙[Fuel Efficiency Prediction Project](https://github.com/boydjawun/MPG-Predictor)
+
 🥸[MNIST Digit Classification with Convolutional Neural Network(CNN)](https://github.com/boydjawun/MNIST-Classification)
 
 🏘️[Boston Median Value Housing Project](https://github.com/boydjawun/Boston_Housing_Dataset)
 
-🚙[Fuel Efficiency Prediction Project](https://github.com/boydjawun/MPG-Predictor)
 
 <h1>🔗Connect with me!</h1>
 
