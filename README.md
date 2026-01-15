@@ -2,9 +2,9 @@
 
 <h1>💻Cybersecurity Projects:</h1>
 
-🍯[Azure Sentinel Honeypot Lab w/Ubuntu(Security Analysis)](https://github.com/boydjawun/Azure-Sentinel-Honeypot-Lab-with-Ubuntu)
+🧪[Active Directory Home Lab Setup w/PowerShell Script & Group Policies(System Administration)](https://github.com/boydjawun/ActiveDirectory-HomeLab-Setup)
 
-🧪[Active Directory Home Lab Setup w/PowerShell Script(System Administration)](https://github.com/boydjawun/ActiveDirectory-HomeLab-Setup)
+🍯[Azure Sentinel Honeypot Lab w/Ubuntu(Security Analysis)](https://github.com/boydjawun/Azure-Sentinel-Honeypot-Lab-with-Ubuntu)
 
 🔓[LLMNR/NetBIOS Poisoning in Active Directory Home Lab](https://github.com/boydjawun/AD-Lab-LLMNR-NetBIOS-Poisoning)
 
