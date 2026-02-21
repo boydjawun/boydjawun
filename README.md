@@ -12,6 +12,9 @@
 
 📊[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management)
 
+<h1>🐍Python Projects</h1>
+
+🎰[SHA-256 Hash Generator](https://github.com/boydjawun/sha256-hash-generator-python)
 
 <h1>🔗Connect with me!</h1>
 
