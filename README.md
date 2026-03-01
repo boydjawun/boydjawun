@@ -16,6 +16,8 @@
 
 🎰[SHA-256 Hash Generator](https://github.com/boydjawun/sha256-hash-generator-python)
 
+👣[Port Recon Pro](https://github.com/boydjawun/py-port-scan/tree/main)
+
 <h1>🔗Connect with me!</h1>
 
 Connect with me on📱[LinkedIn](https://www.linkedin.com/in/jawun-boyd-0168ab301)
