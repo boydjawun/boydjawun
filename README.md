@@ -12,15 +12,19 @@
 
 📊[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management)
 
-<h1>🐍Python Projects</h1>
+<h1>🛠️ Hardware Projects</h1>
+
+🛜[Arduino + ESP32 SoftAP Monitor](https://github.com/boydjawun/arduino-esp32-softAP-monitor)
+
+🚨[Arduino + ESP32 LED On/Off Button](https://github.com/boydjawun/arduino-esp32-onoff-button-controller)
+
+<h1>🐍Python Scripting Projects</h1>
 
 🎰[SHA-256 Hash Generator](https://github.com/boydjawun/sha256-hash-generator-python)
 
 👣[Port Recon Pro](https://github.com/boydjawun/py-port-scan/tree/main)
 
-<h1>🛠️ Hardware Projects</h1>
 
-🚨[Arduino + ESP32 LED On/Off Button](https://github.com/boydjawun/arduino-esp32-onoff-button-controller)
 
 <h1>🔗Connect with me!</h1>
 
