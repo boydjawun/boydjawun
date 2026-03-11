@@ -12,7 +12,7 @@
 
 📊[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management)
 
-<h1>⚡️ Electronics Projects</h1>
+<h1>⚡️Electronics Projects</h1>
 
 🛜[Arduino + ESP32 SoftAP Monitor](https://github.com/boydjawun/arduino-esp32-softAP-monitor)
 
