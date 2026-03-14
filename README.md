@@ -16,6 +16,8 @@
 
 🛜[Arduino + ESP32 SoftAP Monitor](https://github.com/boydjawun/arduino-esp32-softAP-monitor)
 
+🫰[Arduino + ESP32 Touch Sensor w/ LED indicator](https://github.com/boydjawun/esp32-touch-sensor-LED-beginner-project) 
+
 🚨[Arduino + ESP32 LED On/Off Button](https://github.com/boydjawun/arduino-esp32-onoff-button-controller)
 
 <h1>🐍Python Scripting Projects</h1>
