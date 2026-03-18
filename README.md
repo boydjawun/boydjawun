@@ -20,7 +20,7 @@
 
 🚨[Arduino + ESP32 LED On/Off Button](https://github.com/boydjawun/arduino-esp32-onoff-button-controller)
 
-<h1>🐍Python Scripting Projects</h1>
+<h1>🐍Python Projects</h1>
 
 🎰[SHA-256 Hash Generator](https://github.com/boydjawun/sha256-hash-generator-python)
 
