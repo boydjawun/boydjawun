@@ -30,7 +30,13 @@
 
 <h1>🔗Connect with me!</h1>
 
-Connect with me on📱[LinkedIn](https://www.linkedin.com/in/jawun-boyd-0168ab301)
+> Connect with me on📱[LinkedIn](https://www.linkedin.com/in/jawun-boyd-0168ab301)
+
+>Like and Subscribe to ⏯️ [Simple Electronics Tutorials](https://www.youtube.com/channel/UCqedVhdr9MzmSPqrdjZsI6A) on Youtube
+
+---
+⭐⭐⭐⭐⭐⭐⭐⭐⭐-----> "Curiosity killed the cat🐈‍⬛, but satisfaction brought it back!" <-----⭐⭐⭐⭐⭐⭐⭐⭐⭐
+
 <!---
 boydjawun/boydjawun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
