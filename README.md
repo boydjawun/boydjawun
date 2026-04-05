@@ -1,6 +1,18 @@
 <h1>🌲Hi, I'm Jawun!🌲</h1>
 
-<h1>💻Cybersecurity Projects:</h1>
+<h1>⚡️Electronics Projects</h1>
+
+🎡[Arduino UNO R4 + Motorized Pinwheel w/ Toggle Switch](https://github.com/boydjawun/arduino-uno-r4-motorized-pinwheel-toggle-switch)
+
+🚥[ESP32 Web Controlled Traffic Light](https://github.com/boydjawun/esp32-web-controlled-traffic-light)
+
+🛜[Arduino + ESP32 SoftAP Monitor](https://github.com/boydjawun/arduino-esp32-softAP-monitor)
+
+🫰[Arduino + ESP32 Touch Sensor w/ LED indicator](https://github.com/boydjawun/esp32-touch-sensor-LED-beginner-project) 
+
+🚨[Arduino + ESP32 LED On/Off Button](https://github.com/boydjawun/arduino-esp32-onoff-button-controller)
+
+<h1>💻Cybersecurity Projects</h1>
 
 🧪[Active Directory Home Lab Setup w/PowerShell Script & Group Policies(System Administration)](https://github.com/boydjawun/ActiveDirectory-HomeLab-Setup)
 
@@ -12,15 +24,7 @@
 
 📊[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management)
 
-<h1>⚡️Electronics Projects</h1>
 
-🚥[ESP32 Web Controlled Traffic Light](https://github.com/boydjawun/esp32-web-controlled-traffic-light)
-
-🛜[Arduino + ESP32 SoftAP Monitor](https://github.com/boydjawun/arduino-esp32-softAP-monitor)
-
-🫰[Arduino + ESP32 Touch Sensor w/ LED indicator](https://github.com/boydjawun/esp32-touch-sensor-LED-beginner-project) 
-
-🚨[Arduino + ESP32 LED On/Off Button](https://github.com/boydjawun/arduino-esp32-onoff-button-controller)
 
 <h1>🐍Python Projects</h1>
 
