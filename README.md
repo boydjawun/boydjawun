@@ -2,7 +2,7 @@
 
 <h1>⚡️Electronics Projects</h1>
 
-🎡[Arduino UNO R4 + Motorized Pinwheel w/ Toggle Switch](https://github.com/boydjawun/arduino-uno-r4-motorized-pinwheel-toggle-switch)
+🎡[Arduino UNO R4 WiFi + Motorized Pinwheel w/ Toggle Switch](https://github.com/boydjawun/arduino-uno-r4-motorized-pinwheel-toggle-switch)
 
 🚥[ESP32 Web Controlled Traffic Light](https://github.com/boydjawun/esp32-web-controlled-traffic-light)
 
