@@ -1,5 +1,9 @@
 <h1>🌲Hi, I'm Jawun!🌲</h1>
 
+<h1>🥇Certifications</h1>
+
+📚[Arduino Certification in Electronics & Physical Computing](https://github.com/boydjawun/Arduino-Certification-in-Electronics-and-Physical-Computing/tree/main)
+
 <h1>⚡️Electronics Projects</h1>
 
 🎡[Arduino UNO R4 WiFi + Motorized Pinwheel w/ Toggle Switch](https://github.com/boydjawun/arduino-uno-r4-motorized-pinwheel-toggle-switch)
@@ -32,7 +36,7 @@
 
 👣[Port Recon Pro](https://github.com/boydjawun/py-port-scan/tree/main)
 
-<h1>🗒️Certifications</h1>
+
 
 
 
