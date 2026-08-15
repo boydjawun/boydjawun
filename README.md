@@ -1,5 +1,5 @@
 # Hi, I'm Jawun💻
-> Self-taught software developer with a systems-first mindset — from application logic down to silicon, and from silicon back up to smart contracts.
+> Self-taught software developer with a systems-first mindset from application logic down to silicon, and from silicon back up to smart contracts.
 
 ## Tech Stack
 
