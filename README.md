@@ -7,7 +7,7 @@
 |------|-------------------|
 | Smart Contracts / Web3 | Solidity, EVM, Chainlink (Data Feeds, CCIP, Workflows) |
 | Systems & Low-Level | x86 Assembly, Computer Architecture, C++|
-| General Programming | Python, Go, JavaScript, SQL |
+| General Programming | Python, Go, JavaScript/Typescript, SQL |
 | Security | TryHackMe (Cybersecurity Fundamentals) |
 | Hardware / Electronics | Arduino, HackerBoxes |
 | Web | HTML, CSS, JavaScript/Typescript |
