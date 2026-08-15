@@ -1,55 +1,37 @@
-<h1>🌲Hi, I'm Jawun!🌲</h1>
+Hi, I'm Jawun💻
 
-<h1>🥇Certifications</h1>
+Self-taught software developer with a systems-first mindset — from application logic down to silicon, and from silicon back up to smart contracts.
 
-📚[Arduino Certification in Electronics & Physical Computing](https://github.com/boydjawun/Arduino-Certification-in-Electronics-and-Physical-Computing/tree/main)
+About Me
 
-<h1>⚡️Electronics Projects</h1>
+My interest in programming started early, working with Excel and Access in high school and college, where writing formulas and macros first got me thinking about how to make logic work. That curiosity stayed with me, and in 2021 I decided to act on it — I searched "how do I learn to code?" and found freeCodeCamp, where I built my first applications with JavaScript, HTML, and CSS.
 
-🎡[Arduino UNO R4 WiFi + Motorized Pinwheel w/ Toggle Switch](https://github.com/boydjawun/arduino-uno-r4-motorized-pinwheel-toggle-switch)
+From there, my journey branched outward. I picked up Python, Go, SQL, and Solidity, explored machine learning during the recent AI boom, and studied cybersecurity fundamentals through TryHackMe. That led me down a deeper "sub-journey" into how computers actually work:
 
-🚥[ESP32 Web Controlled Traffic Light](https://github.com/boydjawun/esp32-web-controlled-traffic-light)
+Electronics — building projects with HackerBoxes and Arduino kits, learning circuit theory and core electrical formulas
+Computer Architecture — studying systems from the ground up, connecting directly back to my hands-on work with transistors
+x86 Assembly — a natural extension once I understood registers and how they interact with the CPU
+EVM Opcodes — applying my computer architecture knowledge to understand how the Ethereum Virtual Machine manipulates data at a low level
 
-🛜[Arduino + ESP32 SoftAP Monitor](https://github.com/boydjawun/arduino-esp32-softAP-monitor)
+That foundation now feeds directly into my current focus: Solidity development and Web3 engineering, building dApps and experimenting with Chainlink infrastructure — including Data Feeds, CCIP, and Chainlink Workflows.
 
-🫰[Arduino + ESP32 Touch Sensor w/ LED indicator](https://github.com/boydjawun/esp32-touch-sensor-LED-beginner-project) 
+What Drives Me
 
-🚨[Arduino + ESP32 LED On/Off Button](https://github.com/boydjawun/arduino-esp32-onoff-button-controller)
+I like understanding why something works, not just that it works. Going from spreadsheets → web development → low-level architecture → smart contracts has given me a layered perspective: I can reason about a Solidity function's gas costs the same way I reason about opcodes, registers, or a logic gate — because at some level, they're all the same problem.
 
-<h1>💻Cybersecurity Projects</h1>
+Tech Stack
+Area	Tools & Languages
+Smart Contracts / Web3	Solidity, EVM, Chainlink (Data Feeds, CCIP, Workflows)
+Systems & Low-Level	x86 Assembly, Computer Architecture
+General Programming	Python, Go, JavaScript, SQL
+Security	TryHackMe (Cybersecurity Fundamentals)
+Hardware / Electronics	Arduino, HackerBoxes
+Web	HTML, CSS, JavaScript
+Currently Exploring
+Advanced Solidity patterns and dApp architecture
+Chainlink CCIP and cross-chain workflows
+Deepening EVM internals knowledge
+Let's Connect
 
-🧪[Active Directory Home Lab Setup w/PowerShell Script & Group Policies(System Administration)](https://github.com/boydjawun/ActiveDirectory-HomeLab-Setup)
+Feel free to explore my repositories below or reach out — always open to discussing systems, smart contracts, or anything at the intersection of the two
 
-🛜[Wifi Deauthentication Attack w/ ESP32 + SoftAP](https://github.com/boydjawun/WiFi-Deauthentication-Attack-ESP32-Aircrack-ng/tree/main)
-
-🔓[LLMNR/NetBIOS Poisoning in Active Directory Home Lab](https://github.com/boydjawun/AD-Lab-LLMNR-NetBIOS-Poisoning)
-
-🔎[Active Directory Post-Exploitation Demos](https://github.com/boydjawun/AD-PostExploitation-Demos)
-
-📊[Nessus Vulnerability Management](https://github.com/boydjawun/Nessus-Vulnerability-Management)
-
-
-
-<h1>🐍Python Projects</h1>
-
-🎰[SHA-256 Hash Generator](https://github.com/boydjawun/sha256-hash-generator-python)
-
-👣[Port Recon Pro](https://github.com/boydjawun/py-port-scan/tree/main)
-
-
-
-
-
-<h1>🔗Connect with me!</h1>
-
-> Connect with me on📱[LinkedIn](https://www.linkedin.com/in/jawun-boyd-0168ab301)
-
->Like and Subscribe to ⏯️ [Simple Electronics Tutorials](https://www.youtube.com/channel/UCqedVhdr9MzmSPqrdjZsI6A) on Youtube
-
----
-⭐⭐⭐⭐⭐⭐⭐⭐⭐-----> "Curiosity killed the cat🐈‍⬛, but satisfaction brought it back!" <-----⭐⭐⭐⭐⭐⭐⭐⭐⭐
-
-<!---
-boydjawun/boydjawun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
