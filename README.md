@@ -18,6 +18,7 @@
 - [Chainlink Contract Bindings-Typescript](https://github.com/boydjawun/cre-chainlink-contract-bindings-ts)
 - [Chainlink Pokemon API-Go](https://github.com/boydjawun/cre-chainlink-pokemon-go)
 - [Chainlink Star Wars API-Typescript](https://github.com/boydjawun/cre-chainlink-starwars-api)
+- [Chainlink Joke API-Go](https://github.com/boydjawun/cre-chainlink-joke-api-go)
 - [Chainlink Joke API-Typescript](https://github.com/boydjawun/cre-chainlink-joke-api_)
 - [Chainlink ETH/BTC Price Feed API-Typescript](https://github.com/boydjawun/cre-chainlink-data-feed-btc-eth-price)
 - [Simple Storage dApp](https://github.com/boydjawun/simpleStorageDapp)
