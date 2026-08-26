@@ -15,6 +15,7 @@
 # Web 3 & Chainlink Oracle Projects
 - [GLOW ERC-20 Token dApp-Solidty,Javascript](https://github.com/boydjawun/erc20-token-dapp)
 - [ETH/BTC Chainlink Price Feed dapp-Solidity, Javascript](https://github.com/boydjawun/chainlink_priceFeed_eth_btc_dapp)
+- [Chainlink Contract Bindings-Go](https://github.com/boydjawun/cre-chainlink-contract-bindings-go)
 - [Chainlink Contract Bindings-Typescript](https://github.com/boydjawun/cre-chainlink-contract-bindings-ts)
 - [Chainlink Pokemon API-Go](https://github.com/boydjawun/cre-chainlink-pokemon-go)
 - [Chainlink Star Wars API-Typescript](https://github.com/boydjawun/cre-chainlink-starwars-api)
