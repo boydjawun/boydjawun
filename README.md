@@ -12,6 +12,9 @@
 | Hardware / Electronics | Arduino, HackerBoxes |
 | Web | HTML, CSS, JavaScript/Typescript |
 
+# IonQ Quantum Projects
+- [Quantum Coin Flip](https://github.com/boydjawun/quantum-coin-flip)
+
 # Web 3 & Chainlink Oracle Projects
 - [GLOW ERC-20 Token dApp-Solidty,Javascript](https://github.com/boydjawun/erc20-token-dapp)
 - [ETH/BTC Chainlink Price Feed dapp-Solidity, Javascript](https://github.com/boydjawun/chainlink_priceFeed_eth_btc_dapp)
