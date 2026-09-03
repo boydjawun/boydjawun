@@ -12,7 +12,7 @@
 | Hardware / Electronics | Arduino, HackerBoxes |
 | Web | HTML, CSS, JavaScript/Typescript |
 
-# IonQ Quantum Projects ⚛️
+# Quantum Projects ⚛️
 - [Quantum Coin Flip-Python](https://github.com/boydjawun/quantum-coin-flip)
 
 # Web 3 & Chainlink Oracle Projects ⛓️
